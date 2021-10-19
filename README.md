@@ -1,1 +1,5 @@
-# jam
+#EXTM3U
+
+#EXTINF:-1 tvg-logo=""
+group-title="Infantil", SPACEJAM2
+https://fs21.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTYzNDY1NDAyMTtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjM3OiIvdmlkZW9zLzQ5MjAwMC80OTI4NTUvNDkyODU1XzM2MHAubXA0IjtzOjI6ImN2IjtzOjMyOiI3MjZlZGI4ODA4ZTBmMmQ4NDViZWQ3MDEwNzEzY2U3ZiI7fQ%3D%3D
